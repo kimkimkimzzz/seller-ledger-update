@@ -1,9 +1,9 @@
 {
- "version": "1.0",
+ "version": "1.0.1",
  "file": "SellerLedger.exe",
- "size": 13248353,
- "sha256": "4fac6bbb74ce4c19ad8a508e1205c5b6e998f75c370f2b9c137fe626b0e9227c",
- "notes": "v1.0 첫 버전",
+ "size": 13247491,
+ "sha256": "321cf40c3ae9a6e41441d5c555ed41c8203762cd45aa692a9b4b1defb6ca975b",
+ "notes": "v1.0.1 업데이트 테스트\n- 기능 변경 없음 (자동 업데이트가 잘 되는지 확인용)",
  "required": false,
- "built": "2026-10-15 18:33"
+ "built": "2026-10-15 18:40"
 }
