@@ -1,0 +1,9 @@
+{
+ "version": "1.0",
+ "file": "SellerLedger.exe",
+ "size": 13248353,
+ "sha256": "4fac6bbb74ce4c19ad8a508e1205c5b6e998f75c370f2b9c137fe626b0e9227c",
+ "notes": "v1.0 첫 버전",
+ "required": false,
+ "built": "2026-10-15 18:33"
+}
